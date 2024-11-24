@@ -1,0 +1,8 @@
+build/*
+bin/*
+.idea/*
+data/*
+logs/*
+/*.sqlite3
+/Makefile.local
+.DS_Store
